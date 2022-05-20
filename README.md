@@ -13,5 +13,8 @@ Dont Use Fly And Teleport IT Will Break The Fly
 Bug 4:
 Dont Reset/Die It Will Break The Fly To Fix It Click Fly Button Again
 
+Bug 5:
+Dont Execute Script Using Loadstring It Might Won't Execute
+
 Note:
 Only Pc Executors I will Try Make Script For Mobile Executors
