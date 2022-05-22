@@ -13,6 +13,9 @@ Dont Reset/Die It Will Break The Fly To Fix It Click Fly Button Again
 Bug 4:
 Dont Execute Script Using Loadstring It Might Won't Execute
 
+Bug 5:
+WalkSpeed Effect Magic Broom And Others
+
 Note 1:
 Only Pc Executors I will Try Make Script For Mobile Executors
 
